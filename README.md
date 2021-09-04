@@ -9,5 +9,5 @@
 
 # Credit
 
-* Jorge Martinez: He is my classmate. I Got help from Jorge. (https://github.com/jamart01)
+* Jorge Martinez: Jorge is classmate. I Got help from Jorge. (https://github.com/jamart01)
 
